@@ -1,2 +1,6 @@
 chatBot_model:
   model_name: google/flan-t5-large
+
+embedding_model:
+  # model_name: vprelovac/universal-sentence-encoder-large-5
+  model_name: sentence-transformers/all-mpnet-base-v2
